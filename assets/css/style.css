@@ -503,7 +503,7 @@ p {
     }
 }
 
-@media (max-width:992px) {
+@media (max-width:1200px) {
     .small_screen {
         position: fixed;
         display: flex;
