@@ -26,7 +26,7 @@ p {
 }
 
 .fw-400 {
-    font-weight: var(--fw-400);
+    font-weight: var(--fw-400) !important;
 }
 
 .text-col-nav {
