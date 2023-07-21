@@ -10,7 +10,7 @@
 }
 
 .container {
-    max-width: 1320px !important;
+    max-width: 1350px !important;
 }
 
 ol li {
@@ -33,8 +33,8 @@ p {
     color: var(--black);
 }
 
-.gap-35 {
-    gap: 35px;
+.gap-30 {
+    gap: 30px;
 }
 
 .bg-col {
@@ -55,6 +55,10 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.btn-wallet:hover {
+    color: var(--red);
 }
 
 .bor-radius {
@@ -497,8 +501,8 @@ p {
     --bs-accordion-border-color: none !important;
 }
 
-.mw-224 {
-    max-width: 224px !important;
+.mw-200 {
+    max-width: 200px !important;
 }
 
 .ws-now-wrap {
@@ -532,7 +536,7 @@ p {
         pointer-events: none;
         background-color: var(--yellow-300);
         transition: all.3s linear;
-        gap: 35px;
+        gap: 33px;
         z-index: 1;
     }
 
