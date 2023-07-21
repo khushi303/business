@@ -487,6 +487,10 @@ p {
     margin-right: 15px;
 }
 
+.accordion {
+    --bs-accordion-border-color: none !important;
+}
+
 @media (min-width:992px) {
     .dis-lg-block {
         display: block;
