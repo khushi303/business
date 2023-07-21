@@ -264,7 +264,7 @@ p {
 
 .content {
     padding: 27px 23px;
-    background-color: white;
+    background-color: var(--white);
     position: relative;
     border-radius: 6px;
 }
