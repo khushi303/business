@@ -331,6 +331,7 @@ p {
 
 .hov:hover {
     color: var(--red);
+    font-weight: var(--fw-600) !important;
 }
 
 .pos-a {
